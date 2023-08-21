@@ -2,6 +2,7 @@
 - 👀 I’m interested in: Blazor WebAssembly, WebAPI, and MVC
 - 🌱 I’m currently learning: .NET Core and SQL Server
 
+This is my second repo, you can also follow me at McKeeJerry-FS
 - 📫 How to reach me: JerryMcKeeJr.Dev@gmail.com
 
 <!---
